@@ -118,8 +118,3 @@ Proyek ini menggunakan lisensi **MIT License**.
 
 ---
 
-## 📬 Kontak
-
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-* GitHub: [github.com/username](https://github.com/username)
